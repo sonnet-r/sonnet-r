@@ -52,14 +52,14 @@ Related repositories under this account are retained as clearly attributed upstr
 
 ## 🎮 Gaming
 
-《王者荣耀》个人英雄战力记录：
+Personal *Honor of Kings* hero-power achievements:
 
-| 日期 | 称号 | 英雄战力 |
+| Date | Achievement | Hero Power |
 | --- | --- | ---: |
-| 2026-08-31 | 江苏省第 71 名安琪拉 | **10,059** |
-| 2025-10-06 | 安徽省第 9 名不知火舞 | **9,321** |
-| 2022-03-07 | 湖南省第 89 名杨戬 | **7,345** |
-| 2022-03-07 | 安徽省第 89 名关羽 | **7,856** |
+| 2026-08-31 | Jiangsu Province Rank 71 — 🔥 Angela | **10,059** |
+| 2025-10-06 | Anhui Province Rank 9 — 🪭 Mai Shiranui | **9,321** |
+| 2022-03-07 | Hunan Province Rank 89 — 👁️ Yang Jian | **7,345** |
+| 2022-03-07 | Anhui Province Rank 89 — 🐎 Guan Yu | **7,856** |
 
 ## 🔗 Academic Profiles
 
