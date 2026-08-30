@@ -11,7 +11,7 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
 ![Time Series Forecasting](https://img.shields.io/badge/Research-Time%20Series%20Forecasting-0A7B83)
 ![Spatio-Temporal Modeling](https://img.shields.io/badge/Research-Spatio--Temporal%20Modeling-B31B1B)
-![UAV-VLN](https://img.shields.io/badge/Research-UAV--VLN-6F42C1)
+![Honor of Kings](https://img.shields.io/badge/Gaming-Honor%20of%20Kings-D49A23)
 
 
 </div>
@@ -90,7 +90,7 @@ Related repositories under this account are retained as clearly attributed upstr
   <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg" width="76" height="76" alt="Guan Yu" title="Guan Yu · Anhui #89 · 8,083">
 </div>
 
-<p align="center"><em>Research skills: still loading. The ranked grind, however, is thriving.</em>&nbsp;<img src="https://github.com/user-attachments/assets/40a5be96-e518-436f-9844-8201bf9d44ef" width="30" alt="doge"></p>
+<p align="center"><em>Research skills: still loading. The ranked grind, however, is thriving.</em><br><img src="https://github.com/user-attachments/assets/40a5be96-e518-436f-9844-8201bf9d44ef" width="38" alt="doge"></p>
 
 ### 🏆 Provincial Rankings
 
