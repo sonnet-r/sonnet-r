@@ -50,6 +50,17 @@ I am exploring vision-language navigation and vision-language-action learning fo
 
 Related repositories under this account are retained as clearly attributed upstream forks for research and experimentation.
 
+## 🎮 Gaming
+
+《王者荣耀》个人英雄战力记录：
+
+| 日期 | 称号 | 英雄战力 |
+| --- | --- | ---: |
+| 2026-08-31 | 江苏省第 71 名安琪拉 | **10,059** |
+| 2025-10-06 | 安徽省第 9 名不知火舞 | **9,321** |
+| 2022-03-07 | 湖南省第 89 名杨戬 | **7,345** |
+| 2022-03-07 | 安徽省第 89 名关羽 | **7,856** |
+
 ## 🔗 Academic Profiles
 
 - [Google Scholar](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
