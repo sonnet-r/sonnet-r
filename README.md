@@ -7,6 +7,7 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
 ![Time Series Forecasting](https://img.shields.io/badge/Research-Time%20Series%20Forecasting-0A7B83)
+![Spatio-Temporal Modeling](https://img.shields.io/badge/Research-Spatio--Temporal%20Modeling-B31B1B)
 ![UAV-VLN](https://img.shields.io/badge/Research-UAV--VLN-6F42C1)
 
 </div>
@@ -34,6 +35,14 @@ Published in **Knowledge-Based Systems**, Volume 351, Part C (2026), Article 116
 Published in **Knowledge-Based Systems**, Volume 309 (2025), Article 112828.
 
 [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)
+
+## 📈 Time Series Forecasting
+
+I study multivariate and long-term time series forecasting, with an emphasis on robust predictive representations and efficient forecasting architectures.
+
+## 🌐 Spatio-Temporal Modeling
+
+I explore structured dependencies across variables, locations, and time through graph-based learning and continuous-time modeling.
 
 ## 🚁 UAV-VLN
 
