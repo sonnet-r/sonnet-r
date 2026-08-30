@@ -90,6 +90,8 @@ Related repositories under this account are retained as clearly attributed upstr
   <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg" width="76" height="76" alt="Guan Yu" title="Guan Yu · Anhui #89 · 8,083">
 </div>
 
+<p align="center"><em>Research skills: still loading. The ranked grind, however, is thriving.</em>&nbsp;<img src="https://github.com/user-attachments/assets/40a5be96-e518-436f-9844-8201bf9d44ef" width="30" alt="doge"></p>
+
 ### 🏆 Provincial Rankings
 
 - **Angela** · Jiangsu Province **#71** · ⚡ **10,059** Hero Power · <sub>2026-08-31</sub>
