@@ -19,6 +19,14 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 
 ## 📌 Featured Research
 
+### TRDA-TS
+
+**TRDA-TS: Text reinforcement and regularized diffusion alignment for LLM-empowered multimodal time series forecasting**
+
+Published in **Knowledge-Based Systems**, Volume 351, Part C (2026), Article 116790.
+
+[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)
+
 ### [DTSFormer](https://github.com/sonnet-r/DTSFormer)
 
 **DTSFormer: Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting**
