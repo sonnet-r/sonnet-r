@@ -54,12 +54,12 @@ Related repositories under this account are retained as clearly attributed upstr
 
 Personal *Honor of Kings* hero-power achievements:
 
-| Date | Achievement | Hero Power |
-| --- | --- | ---: |
-| 2026-08-31 | Jiangsu Province Rank 71 — 🔥 Angela | **10,059** |
-| 2025-10-06 | Anhui Province Rank 9 — 🪭 Mai Shiranui | **9,321** |
-| 2022-03-07 | Hunan Province Rank 89 — 👁️ Yang Jian | **7,345** |
-| 2022-03-07 | Anhui Province Rank 89 — 🐎 Guan Yu | **7,856** |
+| Date | Hero | Achievement | Hero Power |
+| --- | --- | --- | ---: |
+| 2026-08-31 | <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142.jpg" width="40" height="40" alt="Angela avatar"><br>**Angela** | Jiangsu Province Rank 71 | **10,059** |
+| 2025-10-06 | <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/157/157.jpg" width="40" height="40" alt="Mai Shiranui avatar"><br>**Mai Shiranui** | Anhui Province Rank 9 | **9,321** |
+| 2022-03-07 | <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/178/178.jpg" width="40" height="40" alt="Yang Jian avatar"><br>**Yang Jian** | Hunan Province Rank 89 | **7,345** |
+| 2022-03-07 | <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg" width="40" height="40" alt="Guan Yu avatar"><br>**Guan Yu** | Anhui Province Rank 89 | **7,856** |
 
 ## 🔗 Academic Profiles
 
