@@ -25,6 +25,17 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 - UAV Vision-Language Navigation (UAV-VLN)
 
 
+## 📝 Peer Review Service
+
+I serve as a peer reviewer for journals including:
+
+- *Pattern Recognition*
+- *Advanced Engineering Informatics*
+- *Engineering Applications of Artificial Intelligence*
+- *Expert Systems with Applications*
+- *Knowledge-Based Systems*
+
+
 ## 📌 Featured Research
 
 
@@ -102,6 +113,7 @@ Related repositories under this account are retained as clearly attributed upstr
 ### ⚔️ Personal Milestone
 
 - **Miyamoto Musashi** · ⚡ **7,689** Hero Power · <sub>2025-05-19</sub>
+
 
 ## 🔗 Academic Profiles
 
