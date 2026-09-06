@@ -1,11 +1,8 @@
 <div align="center">
 
-
 # Hi, I'm sonnet-r 👋
 
-
 Researching **multivariate time series forecasting**, **spatio-temporal learning**, and **UAV vision-language navigation**.
-
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
@@ -13,17 +10,23 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 ![Spatio-Temporal Modeling](https://img.shields.io/badge/Research-Spatio--Temporal%20Modeling-B31B1B)
 ![Honor of Kings](https://img.shields.io/badge/Gaming-Honor%20of%20Kings-D49A23)
 
+<p>
+  <a href="#-research-focus">Research</a> ·
+  <a href="#-peer-review-service">Peer Review</a> ·
+  <a href="#-selected-publications">Publications</a> ·
+  <a href="#-gaming">Gaming</a> ·
+  <a href="#-academic-profiles">Profiles</a>
+</p>
 
 </div>
 
+## 🔭 Research Focus
 
-## 🔭 Research Interests
-
-
-- Multivariate time series forecasting
-- Spatio-temporal learning and graph neural networks
-- UAV Vision-Language Navigation (UAV-VLN)
-
+| Direction | Current focus |
+| :-- | :-- |
+| 📈 **Multivariate Time Series Forecasting** | Robust predictive representations and efficient long-term forecasting architectures |
+| 🌐 **Spatio-Temporal Modeling** | Dynamic graph learning, structured dependencies, and continuous-time systems |
+| 🚁 **UAV Vision-Language Navigation** | Long-horizon reasoning, spatial grounding, and robust navigation in 3D environments |
 
 ## 📝 Peer Review Service
 
@@ -35,54 +38,13 @@ I serve as a peer reviewer for journals including:
 - *Expert Systems with Applications*
 - *Knowledge-Based Systems*
 
+## 📚 Selected Publications
 
-## 📌 Featured Research
+- **TRDA-TS** — *Text reinforcement and regularized diffusion alignment for LLM-empowered multimodal time series forecasting*  
+  **Knowledge-Based Systems**, Volume 351, Part C, Article 116790 (2026). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)
 
-
-### TRDA-TS
-
-
-**TRDA-TS: Text reinforcement and regularized diffusion alignment for LLM-empowered multimodal time series forecasting**
-
-
-Published in **Knowledge-Based Systems**, Volume 351, Part C (2026), Article 116790.
-
-
-[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)
-
-
-### [DTSFormer](https://github.com/sonnet-r/DTSFormer)
-
-
-**DTSFormer: Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting**
-
-
-Published in **Knowledge-Based Systems**, Volume 309 (2025), Article 112828.
-
-
-[Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)
-
-
-## 📈 Time Series Forecasting
-
-
-I study multivariate and long-term time series forecasting, with an emphasis on robust predictive representations and efficient forecasting architectures.
-
-
-## 🌐 Spatio-Temporal Modeling
-
-
-I explore structured dependencies across variables, locations, and time through graph-based learning and continuous-time modeling.
-
-
-## 🚁 UAV-VLN
-
-
-I am exploring vision-language navigation and vision-language-action learning for autonomous UAVs, with an emphasis on long-horizon reasoning, spatial grounding, and robust navigation in 3D environments.
-
-
-Related repositories under this account are retained as clearly attributed upstream forks for research and experimentation.
-
+- **[DTSFormer](https://github.com/sonnet-r/DTSFormer)** — *Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting*  
+  **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)
 
 ## 🎮 Gaming
 
@@ -114,11 +76,8 @@ Related repositories under this account are retained as clearly attributed upstr
 
 - **Miyamoto Musashi** · ⚡ **7,689** Hero Power · <sub>2025-05-19</sub>
 
-
 ## 🔗 Academic Profiles
-
 
 - [Google Scholar](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 - [ORCID: 0009-0007-9521-3701](https://orcid.org/0009-0007-9521-3701)
 - For questions about released code, please open an issue in the corresponding repository.
-
