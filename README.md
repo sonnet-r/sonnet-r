@@ -41,10 +41,12 @@ I serve as a peer reviewer for journals including:
 ## 📚 Selected Publications
 
 - **TRDA-TS** — *Text reinforcement and regularized diffusion alignment for LLM-empowered multimodal time series forecasting*  
-  **Knowledge-Based Systems**, Volume 351, Part C, Article 116790 (2026). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)
+  **Knowledge-Based Systems**, Volume 351, Part C, Article 116790 (2026). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)<br>
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Ftrda-ts-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=86400)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:Y0pCki6q_DkC) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 - **[DTSFormer](https://github.com/sonnet-r/DTSFormer)** — *Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting*  
-  **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)
+  **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)<br>
+  [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fdtsformer-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=86400)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 ## 🎮 Gaming
 
