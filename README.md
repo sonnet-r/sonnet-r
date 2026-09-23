@@ -30,13 +30,7 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 
 ## 📝 Peer Review Service
 
-I serve as a peer reviewer for journals including:
-
-- *Pattern Recognition*
-- *Advanced Engineering Informatics*
-- *Engineering Applications of Artificial Intelligence*
-- *Expert Systems with Applications*
-- *Knowledge-Based Systems*
+I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **EAAI**, **ESWA**, **KBS**, **Measurement**, and **Neurocomputing**.
 
 ## 📚 Selected Publications
 
