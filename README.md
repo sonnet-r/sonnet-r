@@ -38,6 +38,12 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
   **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)<br>
   [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fdtsformer-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=86400)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
+## 🔗 Academic Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
+- [ORCID: 0009-0007-9521-3701](https://orcid.org/0009-0007-9521-3701)
+- For questions about released code, please open an issue in the corresponding repository.
+
 ## 🎮 Gaming
 
 <div align="center">
@@ -67,9 +73,3 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
 ### ⚔️ Personal Milestone
 
 - **Miyamoto Musashi** · ⚡ **7,689** Hero Power · <sub>2025-05-19</sub>
-
-## 🔗 Academic Profiles
-
-- [Google Scholar](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
-- [ORCID: 0009-0007-9521-3701](https://orcid.org/0009-0007-9521-3701)
-- For questions about released code, please open an issue in the corresponding repository.
