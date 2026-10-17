@@ -4,9 +4,7 @@
 
 Researching **time series analysis**, **complex networks**, and **UAV vision-language navigation**.
 
-[![Google Scholar Citations](https://img.shields.io/endpoint?v=2&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
-[![Google Scholar h-index](https://img.shields.io/endpoint?v=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-h-index.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
-[![Google Scholar i10-index](https://img.shields.io/endpoint?v=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-i10-index.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
+[![Google Scholar Metrics](https://img.shields.io/endpoint?v=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-metrics.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
 ![Time Series Analysis](https://img.shields.io/badge/Research-Time%20Series%20Analysis-0A7B83)
 ![Complex Networks](https://img.shields.io/badge/Research-Complex%20Networks-B31B1B)

@@ -125,6 +125,19 @@ def _badge(label: str, citations: int) -> dict[str, object]:
     }
 
 
+def _scholar_metrics_badge(
+    citations: int, h_index: int, i10_index: int
+) -> dict[str, object]:
+    return {
+        "schemaVersion": 1,
+        "label": "Google Scholar",
+        "message": (
+            f"Citations {citations} | h-index {h_index} | i10-index {i10_index}"
+        ),
+        "color": "4285F4",
+    }
+
+
 def _write_badge(path: Path, payload: dict[str, object]) -> None:
     path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
 
@@ -150,16 +163,8 @@ def main() -> None:
 
     repository = Path(__file__).resolve().parents[2]
     _write_badge(
-        repository / "scholar-citations.json",
-        _badge("Google Scholar Citations", total_citations),
-    )
-    _write_badge(
-        repository / "scholar-h-index.json",
-        _badge("h-index", h_index),
-    )
-    _write_badge(
-        repository / "scholar-i10-index.json",
-        _badge("i10-index", i10_index),
+        repository / "scholar-metrics.json",
+        _scholar_metrics_badge(total_citations, h_index, i10_index),
     )
     for filename, citations in publication_citations.items():
         _write_badge(repository / filename, _badge("Citations", citations))
