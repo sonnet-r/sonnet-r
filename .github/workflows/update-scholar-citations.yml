@@ -34,8 +34,8 @@ jobs:
             echo "Citation counts are unchanged."
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "sonnet-r"
+          git config user.email "ikun_man@mail.tongji.edu.cn"
           git add scholar-metrics.json dtsformer-citations.json
           git commit -m "Update profile"
           git push
