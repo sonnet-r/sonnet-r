@@ -176,4 +176,8 @@ def main() -> None:
 
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except (RuntimeError, ValueError) as error:
+        message = str(error).replace("\n", " | ")
+        print(f"::warning::Scholar metrics were not updated: {message}")
