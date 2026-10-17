@@ -2,12 +2,12 @@
 
 # Hi, I'm sonnet-r 👋
 
-Researching **multivariate time series forecasting**, **spatio-temporal learning**, and **UAV vision-language navigation**.
+Researching **time series analysis**, **complex networks**, and **UAV vision-language navigation**.
 
 [![Google Scholar Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=86400)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
-![Time Series Forecasting](https://img.shields.io/badge/Research-Time%20Series%20Forecasting-0A7B83)
-![Spatio-Temporal Modeling](https://img.shields.io/badge/Research-Spatio--Temporal%20Modeling-B31B1B)
+![Time Series Analysis](https://img.shields.io/badge/Research-Time%20Series%20Analysis-0A7B83)
+![Complex Networks](https://img.shields.io/badge/Research-Complex%20Networks-B31B1B)
 ![Honor of Kings](https://img.shields.io/badge/Gaming-Honor%20of%20Kings-D49A23)
 
 <p>
@@ -24,8 +24,8 @@ Researching **multivariate time series forecasting**, **spatio-temporal learning
 
 | Direction | Current focus |
 | :-- | :-- |
-| 📈 **Multivariate Time Series Forecasting** | Robust predictive representations and efficient long-term forecasting architectures |
-| 🌐 **Spatio-Temporal Modeling** | Dynamic graph learning, structured dependencies, and continuous-time systems |
+| 📈 **Time Series Analysis** | Load forecasting, time-series decomposition, time-frequency analysis, multivariate spatio-temporal modeling, and temporally aligned multimodal information |
+| 🌐 **Complex Networks** | Pairwise and higher-order relation discovery from binary and continuous-valued time-series observations |
 | 🚁 **UAV Vision-Language Navigation** | Long-horizon reasoning, spatial grounding, and robust navigation in 3D environments |
 
 ## 📝 Peer Review Service
