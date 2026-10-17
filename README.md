@@ -24,7 +24,7 @@ Researching **time series analysis**, **complex networks**, and **UAV vision-lan
 
 | Direction | Current focus |
 | :-- | :-- |
-| 📈 **Time Series Analysis** | Load forecasting, time-series decomposition, time-frequency analysis, multivariate spatio-temporal modeling, and temporally aligned multimodal information |
+| 📈 **Time Series Analysis** | Time-series decomposition, time-frequency analysis, multivariate spatio-temporal modeling, and temporally aligned multimodal information |
 | 🌐 **Complex Networks** | Pairwise and higher-order relation discovery from binary and continuous-valued time-series observations |
 | 🚁 **UAV Vision-Language Navigation** | Long-horizon reasoning, spatial grounding, and robust navigation in 3D environments |
 
