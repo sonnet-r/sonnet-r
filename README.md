@@ -5,6 +5,8 @@
 Researching **time series analysis**, **complex networks**, and **UAV vision-language navigation**.
 
 [![Google Scholar Citations](https://img.shields.io/endpoint?v=2&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
+[![Google Scholar h-index](https://img.shields.io/endpoint?v=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-h-index.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
+[![Google Scholar i10-index](https://img.shields.io/endpoint?v=1&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fscholar-i10-index.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
 ![Time Series Analysis](https://img.shields.io/badge/Research-Time%20Series%20Analysis-0A7B83)
 ![Complex Networks](https://img.shields.io/badge/Research-Complex%20Networks-B31B1B)
@@ -33,10 +35,6 @@ Researching **time series analysis**, **complex networks**, and **UAV vision-lan
 I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **KBS**, **EAAI**, **ESWA**, **Measurement**, **Neurocomputing**, etc.
 
 ## 📚 Selected Publications
-
-- **TRDA-TS** — *Text reinforcement and regularized diffusion alignment for LLM-empowered multimodal time series forecasting*<br>
-  **Knowledge-Based Systems**, Volume 351, Part C, Article 116790 (2026). [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126015169) · [DOI](https://doi.org/10.1016/j.knosys.2026.116790)<br>
-  [![Citations](https://img.shields.io/endpoint?v=2&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Ftrda-ts-citations.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:Y0pCki6q_DkC) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 - **[DTSFormer](https://github.com/sonnet-r/DTSFormer)** — *Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting*  
   **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)<br>

@@ -20,10 +20,6 @@ PUBLICATIONS = {
         "DTSFormer: Decoupled temporal-spatial diffusion transformer for enhanced "
         "long-term time series forecasting"
     ),
-    "trda-ts-citations.json": (
-        "TRDA-TS: Text reinforcement and regularized diffusion alignment for "
-        "LLM-empowered multimodal time series forecasting"
-    ),
 }
 
 
@@ -136,10 +132,12 @@ def _write_badge(path: Path, payload: dict[str, object]) -> None:
 def main() -> None:
     parser = ScholarProfileParser()
     parser.feed(_download_profile())
-    if not parser.statistics:
-        raise RuntimeError("Google Scholar total citation count was not found")
+    if len(parser.statistics) < 5:
+        raise RuntimeError("Google Scholar citation metrics were not found")
 
     total_citations = _integer(parser.statistics[0])
+    h_index = _integer(parser.statistics[2])
+    i10_index = _integer(parser.statistics[4])
     indexed_publications = {
         _normalized_title(title): citations for title, citations in parser.publications
     }
@@ -155,6 +153,14 @@ def main() -> None:
         repository / "scholar-citations.json",
         _badge("Google Scholar Citations", total_citations),
     )
+    _write_badge(
+        repository / "scholar-h-index.json",
+        _badge("h-index", h_index),
+    )
+    _write_badge(
+        repository / "scholar-i10-index.json",
+        _badge("i10-index", i10_index),
+    )
     for filename, citations in publication_citations.items():
         _write_badge(repository / filename, _badge("Citations", citations))
 
@@ -162,7 +168,11 @@ def main() -> None:
         f"{filename}={citations}"
         for filename, citations in publication_citations.items()
     )
-    print(f"Google Scholar citations: total={total_citations}, {details}")
+    print(
+        "Google Scholar metrics: "
+        f"citations={total_citations}, h-index={h_index}, i10-index={i10_index}, "
+        f"{details}"
+    )
 
 
 if __name__ == "__main__":

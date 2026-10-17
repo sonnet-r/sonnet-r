@@ -30,12 +30,12 @@ jobs:
       - name: Commit changed citation counts
         shell: bash
         run: |
-          if git diff --quiet -- scholar-citations.json dtsformer-citations.json trda-ts-citations.json; then
+          if git diff --quiet -- scholar-citations.json scholar-h-index.json scholar-i10-index.json dtsformer-citations.json; then
             echo "Citation counts are unchanged."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add scholar-citations.json dtsformer-citations.json trda-ts-citations.json
+          git add scholar-citations.json scholar-h-index.json scholar-i10-index.json dtsformer-citations.json
           git commit -m "Update profile"
           git push
