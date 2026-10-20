@@ -54,15 +54,15 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
   <strong>Honor of Kings · Hall of Fame</strong><br>
   <sub>Provincial rankings and hero-power milestones</sub>
   <br><br>
-  <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142.jpg" width="76" height="76" alt="Angela" title="Angela · Jiangsu #71 · 10,059">
+  <img src="./assets/angela.png" width="76" height="76" alt="Angela" title="Angela · Jiangsu #71 · 10,059">
   &nbsp;
-  <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/157/157.jpg" width="76" height="76" alt="Mai Shiranui" title="Mai Shiranui · Anhui #9 · 9,412">
+  <img src="./assets/mai-shiranui.png" width="76" height="76" alt="Mai Shiranui" title="Mai Shiranui · Anhui #9 · 9,412">
   &nbsp;
-  <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/130/130.jpg" width="76" height="76" alt="Miyamoto Musashi" title="Miyamoto Musashi · 7,689">
+  <img src="./assets/miyamoto-musashi.jpg" width="76" height="76" alt="Miyamoto Musashi" title="Miyamoto Musashi · 7,689">
   &nbsp;
-  <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/178/178.jpg" width="76" height="76" alt="Yang Jian" title="Yang Jian · Hunan #89 · 7,513">
+  <img src="./assets/yang-jian.png" width="76" height="76" alt="Yang Jian" title="Yang Jian · Hunan #89 · 7,513">
   &nbsp;
-  <img src="https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg" width="76" height="76" alt="Guan Yu" title="Guan Yu · Anhui #89 · 8,083">
+  <img src="./assets/guan-yu.png" width="76" height="76" alt="Guan Yu" title="Guan Yu · Anhui #89 · 8,083">
 </div>
 
 <p align="center"><em>Research skills: still loading. The ranked grind, however, is thriving.</em><br><img src="https://github.com/user-attachments/assets/40a5be96-e518-436f-9844-8201bf9d44ef" width="38" alt="doge"></p>
