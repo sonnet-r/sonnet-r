@@ -20,7 +20,7 @@ PUBLICATIONS = {
         "DTSFormer: Decoupled temporal-spatial diffusion transformer for enhanced "
         "long-term time series forecasting"
     ),
-    "photovoltaic-citations.json": (
+    "photovoltaic-citations-v2.json": (
         "Channel-correlation aware photovoltaic power forecasting framework based "
         "on multi-perspective modeling"
     ),
