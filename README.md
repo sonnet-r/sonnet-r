@@ -35,7 +35,7 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
 ## 📚 Selected Publications
 
 - **Channel-correlation aware photovoltaic power forecasting framework based on multi-perspective modeling**<br>
-  **Expert Systems with Applications**, Volume 288, Article 128171 (2025). [DOI](https://doi.org/10.1016/j.eswa.2025.128171) · [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC)
+  **Expert Systems with Applications**, Volume 288, Article 128171 (2025). 
   [![Citations](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fsonnet-r%2Fsonnet-r%2Fmain%2Fphotovoltaic-citations-v2.json&logo=googlescholar&logoColor=white&cacheSeconds=300)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 - **[DTSFormer](https://github.com/sonnet-r/DTSFormer)** — *Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting*  
