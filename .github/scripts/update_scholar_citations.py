@@ -156,12 +156,19 @@ def _static_badge(label: str, message: str) -> str:
     )
 
 
-def _replace_readme_block(text: str, name: str, content: str) -> str:
-    pattern = rf"<!-- {re.escape(name)}:start -->.*?<!-- {re.escape(name)}:end -->"
-    replacement = f"<!-- {name}:start -->{content}<!-- {name}:end -->"
-    updated, count = re.subn(pattern, replacement, text, flags=re.DOTALL)
+def _replace_readme_badge(
+    text: str, alt_text: str, scholar_link: str, badge_url: str
+) -> str:
+    pattern = (
+        rf"\[!\[{re.escape(alt_text)}\]\([^)]+\)\]"
+        rf"\({re.escape(scholar_link)}\)"
+    )
+    replacement = f"[![{alt_text}]({badge_url})]({scholar_link})"
+    updated, count = re.subn(pattern, replacement, text)
     if count != 1:
-        raise RuntimeError(f"README block was not found exactly once: {name}")
+        raise RuntimeError(
+            f"README badge was not found exactly once: {alt_text} -> {scholar_link}"
+        )
     return updated
 
 
@@ -176,16 +183,12 @@ def _update_readme(
         "https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en"
     )
     publication_links = {
-        "dtsformer-citations.json": (
-            "dtsformer-citations",
+        "dtsformer-citations.json":
             "https://scholar.google.com/citations?view_op=view_citation&hl=en&"
             "user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C",
-        ),
-        "photovoltaic-citations-v2.json": (
-            "photovoltaic-citations",
+        "photovoltaic-citations-v2.json":
             "https://scholar.google.com/citations?view_op=view_citation&hl=en&"
             "user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC",
-        ),
     }
 
     readme_path = repository / "README.md"
@@ -193,19 +196,21 @@ def _update_readme(
     metrics_message = (
         f"Citations {total_citations} | h-index {h_index} | i10-index {i10_index}"
     )
-    metrics_badge = (
-        f"[![Google Scholar Metrics]({_static_badge('Google Scholar', metrics_message)})]"
-        f"({scholar_profile})"
+    readme = _replace_readme_badge(
+        readme,
+        "Google Scholar Metrics",
+        scholar_profile,
+        _static_badge("Google Scholar", metrics_message),
     )
-    readme = _replace_readme_block(readme, "scholar-metrics", metrics_badge)
 
     for filename, citations in publication_citations.items():
-        block_name, scholar_link = publication_links[filename]
-        badge = (
-            f"[![Citations]({_static_badge('Citations', str(citations))})]"
-            f"({scholar_link})"
+        scholar_link = publication_links[filename]
+        readme = _replace_readme_badge(
+            readme,
+            "Citations",
+            scholar_link,
+            _static_badge("Citations", str(citations)),
         )
-        readme = _replace_readme_block(readme, block_name, badge)
 
     readme_path.write_text(readme, encoding="utf-8")
 

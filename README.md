@@ -4,7 +4,7 @@
 
 Researching **time series analysis**, **complex networks**, and **UAV vision-language navigation**.
 
-<!-- scholar-metrics:start -->[![Google Scholar Metrics](https://img.shields.io/badge/Google%20Scholar-Citations%2077%20%7C%20h--index%204%20%7C%20i10--index%203-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)<!-- scholar-metrics:end -->
+[![Google Scholar Metrics](https://img.shields.io/badge/Google%20Scholar-Citations%2077%20%7C%20h--index%204%20%7C%20i10--index%203-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9521--3701-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-9521-3701)
 ![Time Series Analysis](https://img.shields.io/badge/Research-Time%20Series%20Analysis-0A7B83)
 ![Complex Networks](https://img.shields.io/badge/Research-Complex%20Networks-B31B1B)
@@ -36,11 +36,11 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
 
 - **Channel-correlation aware photovoltaic power forecasting framework based on multi-perspective modeling**<br>
   **Expert Systems with Applications**, Volume 288, Article 128171 (2025). 
-  <!-- photovoltaic-citations:start -->[![Citations](https://img.shields.io/badge/Citations-11-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC)<!-- photovoltaic-citations:end --> ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
+  [![Citations](https://img.shields.io/badge/Citations-11-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 - **[DTSFormer](https://github.com/sonnet-r/DTSFormer)** — *Decoupled Temporal-Spatial Diffusion Transformer for Enhanced Long-Term Time Series Forecasting*  
   **Knowledge-Based Systems**, Volume 309, Article 112828 (2025). [Paper](https://doi.org/10.1016/j.knosys.2024.112828) · [Code](https://github.com/sonnet-r/DTSFormer)<br>
-  <!-- dtsformer-citations:start -->[![Citations](https://img.shields.io/badge/Citations-49-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C)<!-- dtsformer-citations:end --> ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
+  [![Citations](https://img.shields.io/badge/Citations-49-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C) ![CAS Zone 1 TOP](https://img.shields.io/badge/CAS-Zone%201%20TOP-B31B1B) ![JCR Q1](https://img.shields.io/badge/JCR-Q1-0A7B83) ![CCF C](https://img.shields.io/badge/CCF-C-D49A23)
 
 ## 🔗 Academic Profiles
 
