@@ -6,6 +6,7 @@ import time
 import unicodedata
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import quote
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -146,6 +147,69 @@ def _write_badge(path: Path, payload: dict[str, object]) -> None:
     path.write_text(json.dumps(payload, indent=2) + "\n", encoding="utf-8")
 
 
+def _static_badge(label: str, message: str) -> str:
+    escaped_label = quote(label.replace("-", "--").replace("_", "__"), safe="")
+    escaped_message = quote(message.replace("-", "--").replace("_", "__"), safe="")
+    return (
+        f"https://img.shields.io/badge/{escaped_label}-{escaped_message}-4285F4"
+        "?logo=googlescholar&logoColor=white"
+    )
+
+
+def _replace_readme_block(text: str, name: str, content: str) -> str:
+    pattern = rf"<!-- {re.escape(name)}:start -->.*?<!-- {re.escape(name)}:end -->"
+    replacement = f"<!-- {name}:start -->{content}<!-- {name}:end -->"
+    updated, count = re.subn(pattern, replacement, text, flags=re.DOTALL)
+    if count != 1:
+        raise RuntimeError(f"README block was not found exactly once: {name}")
+    return updated
+
+
+def _update_readme(
+    repository: Path,
+    total_citations: int,
+    h_index: int,
+    i10_index: int,
+    publication_citations: dict[str, int],
+) -> None:
+    scholar_profile = (
+        "https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en"
+    )
+    publication_links = {
+        "dtsformer-citations.json": (
+            "dtsformer-citations",
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&"
+            "user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:d1gkVwhDpl0C",
+        ),
+        "photovoltaic-citations-v2.json": (
+            "photovoltaic-citations",
+            "https://scholar.google.com/citations?view_op=view_citation&hl=en&"
+            "user=1PY8X28AAAAJ&citation_for_view=1PY8X28AAAAJ:qjMakFHDy7sC",
+        ),
+    }
+
+    readme_path = repository / "README.md"
+    readme = readme_path.read_text(encoding="utf-8")
+    metrics_message = (
+        f"Citations {total_citations} | h-index {h_index} | i10-index {i10_index}"
+    )
+    metrics_badge = (
+        f"[![Google Scholar Metrics]({_static_badge('Google Scholar', metrics_message)})]"
+        f"({scholar_profile})"
+    )
+    readme = _replace_readme_block(readme, "scholar-metrics", metrics_badge)
+
+    for filename, citations in publication_citations.items():
+        block_name, scholar_link = publication_links[filename]
+        badge = (
+            f"[![Citations]({_static_badge('Citations', str(citations))})]"
+            f"({scholar_link})"
+        )
+        readme = _replace_readme_block(readme, block_name, badge)
+
+    readme_path.write_text(readme, encoding="utf-8")
+
+
 def main() -> None:
     parser = ScholarProfileParser()
     parser.feed(_download_profile())
@@ -172,6 +236,13 @@ def main() -> None:
     )
     for filename, citations in publication_citations.items():
         _write_badge(repository / filename, _badge("Citations", citations))
+    _update_readme(
+        repository,
+        total_citations,
+        h_index,
+        i10_index,
+        publication_citations,
+    )
 
     details = ", ".join(
         f"{filename}={citations}"
