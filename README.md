@@ -46,7 +46,6 @@ I serve as a peer reviewer for journals including **TNNLS**, **PR**, **AEI**, **
 
 - [Google Scholar](https://scholar.google.com/citations?user=1PY8X28AAAAJ&hl=en)
 - [ORCID: 0009-0007-9521-3701](https://orcid.org/0009-0007-9521-3701)
-- For questions about released code, please open an issue in the corresponding repository.
 
 ## 🎮 Gaming
 
