@@ -30,7 +30,7 @@ Researching **time series analysis**, **complex networks**, and **UAV vision-lan
 
 ## 📝 Peer Review Service
 
-I serve as a peer reviewer for journals including **TNNLS**, **PR**,  **KBS**, **AEI**, **EAAI**, **ESWA**, **Measurement**, **Neurocomputing**, **Physics A** etc.
+I serve as a peer reviewer for journals including **TNNLS**, **PR**,  **KBS**, **AEI**, **EAAI**, **ESWA**, **Measurement**, **Neurocomputing**, **Physica. A** etc.
 
 ## 📚 Selected Publications
 
